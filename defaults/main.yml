@@ -1,0 +1,5 @@
+---
+
+hostname: 'localhost.localdomain'
+hostname_hosts_template: 'hosts.j2'
+hostname_hosts:
